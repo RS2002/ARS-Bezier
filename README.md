@@ -29,10 +29,15 @@ python train.py --rand_env
 Here are some hyperparameters:
 
 `--max_steps`: maximum steps in each round.
+
 `--max_epoch`: total training epochs.
+
 `--episode_num`: amount of randomly sampled points in each epoch.
+
 `--max_epoch`: top-k episodes in each epoch are used to update parameters.
+
 `--learning_rate`: learning rate.
+
 `--exploration_noise`: sampling range.
 
 
