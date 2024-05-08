@@ -1,8 +1,8 @@
 # ARS-Bezier
 
-**Article: ** ARS-Bezier: A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot (under way)
+** Article: ** ARS-Bezier: A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot (under way)
 
-**Experiment Platformat: ** Robot Rat NeRmo & MuJoCo
+** Experiment Platformat: ** Robot Rat NeRmo & MuJoCo
 
 
 
