@@ -1,6 +1,6 @@
 # ARS-Bezier
 
-**Article:** Zijian Zhao, Zitao Zhang, Kai Huang, "A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot"
+**Article:** Zijian Zhao, Zitao Zhang, Kai Huang, "A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot"  ([PDF](https://github.com/RS2002/ARS-Bezier/blob/main/ARS_Bezier.pdf))
 
 **Experiment Platform:** Robot Rat NeRmo & MuJoCo
 
