@@ -1,8 +1,8 @@
 # ARS-Bezier
 
-**Article:** ARS-Bezier: A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot (under way)
+**Article:** Zijian Zhao, Zitao Zhang, Kai Huang, "A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot"
 
-**Experiment Platformat:** Robot Rat NeRmo & MuJoCo
+**Experiment Platform:** Robot Rat NeRmo & MuJoCo
 
 
 
@@ -26,7 +26,7 @@ If you want to try our environment randomization method, use:
 python train.py --rand_env
 ```
 
-Here are some hyperparameters:
+Here are some hyper-parameters:
 
 `--max_steps`: maximum steps in each round.
 
